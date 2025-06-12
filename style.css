@@ -18,7 +18,6 @@
 body{
     color: var(--branco);
     background-color: var(--cor-de-fundo);
-    background: url('fundo-textura.png') center/cover no-repeat;
     font-family: var(--roboto);
     font-size: 18px; 
 }
